@@ -1,5 +1,6 @@
 # sequence_types_physical_demands
-Repository containing video of different sequence types from MD PhD Study 2
+
+📖⚽🤓Repository containing video of different sequence types from MD PhD Study 2. Note: LCFC always in blue and Opposition in red
 
 ⚽ In Possession Sequences
 
